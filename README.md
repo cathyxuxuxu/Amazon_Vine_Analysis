@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The purpose of this project is performing the ETL process in order to analyze Amazon reviews of wireless products and to determine if there is any bias toward favorable reviews from Amazon Vine members using PySpark, AWS RDS instance, Pandas and SQL.
+The purpose of this project is to perform the ETL process in order to analyze Amazon reviews of wireless products and to determine if there is any bias toward favorable reviews from Amazon Vine members using PySpark, AWS RDS instance, Pandas and SQL.
 
 ## Results
 
